@@ -1,1 +1,2 @@
 bu mod 2026 yılında güncelenmiştir. ve oyunun en son 2026 sürümüne uyumludur.
+en güncel sürüm Blackwall merged.zip dosyalı olan ayrıca yeni ddeğişiklikler kısaca 1. artık cet ekranından değil ESC tuşuna bsaınca açılan mod ekranından mod ayarlarını düzenleyebiliyoruz ve yeni quick hack blackwall ekleme seçeneği de var. önceki ayarlarda aynen mod ayarları sekmesinde mevcut. lakin gereksinimler sekmesine dikatli bakın ve öncelikle gereksinimleri kurun. en son mod dosyasını oyun dosyasının içerisine atın.
